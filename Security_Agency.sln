@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Security_Agency", "Security_Agency\Security_Agency.csproj", "{A2E8BF54-2D59-435F-97F2-31B11665AA2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{D0D61F50-D3C8-4F65-AAC1-FF474C937519}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{BFC2C435-EF2F-4843-8CD3-9C94B7471530}"
+	ProjectSection(SolutionItems) = preProject
+		ClassTest.cs = ClassTest.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2E8BF54-2D59-435F-97F2-31B11665AA2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2E8BF54-2D59-435F-97F2-31B11665AA2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2E8BF54-2D59-435F-97F2-31B11665AA2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2E8BF54-2D59-435F-97F2-31B11665AA2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0D61F50-D3C8-4F65-AAC1-FF474C937519}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0D61F50-D3C8-4F65-AAC1-FF474C937519}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0D61F50-D3C8-4F65-AAC1-FF474C937519}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0D61F50-D3C8-4F65-AAC1-FF474C937519}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD04393F-5F21-4B11-AB12-1B265E98CEA3}
+	EndGlobalSection
+EndGlobal
